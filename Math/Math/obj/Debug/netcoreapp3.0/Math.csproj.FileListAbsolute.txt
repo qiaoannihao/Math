@@ -1,0 +1,12 @@
+E:\GitblitData\Math\Math\Math\bin\Debug\netcoreapp3.0\MathRealize.exe
+E:\GitblitData\Math\Math\Math\bin\Debug\netcoreapp3.0\MathRealize.deps.json
+E:\GitblitData\Math\Math\Math\bin\Debug\netcoreapp3.0\MathRealize.runtimeconfig.json
+E:\GitblitData\Math\Math\Math\bin\Debug\netcoreapp3.0\MathRealize.runtimeconfig.dev.json
+E:\GitblitData\Math\Math\Math\bin\Debug\netcoreapp3.0\MathRealize.dll
+E:\GitblitData\Math\Math\Math\bin\Debug\netcoreapp3.0\MathRealize.pdb
+E:\GitblitData\Math\Math\Math\obj\Debug\netcoreapp3.0\Math.csprojAssemblyReference.cache
+E:\GitblitData\Math\Math\Math\obj\Debug\netcoreapp3.0\Math.csproj.CoreCompileInputs.cache
+E:\GitblitData\Math\Math\Math\obj\Debug\netcoreapp3.0\Math.AssemblyInfoInputs.cache
+E:\GitblitData\Math\Math\Math\obj\Debug\netcoreapp3.0\Math.AssemblyInfo.cs
+E:\GitblitData\Math\Math\Math\obj\Debug\netcoreapp3.0\MathRealize.dll
+E:\GitblitData\Math\Math\Math\obj\Debug\netcoreapp3.0\MathRealize.pdb
